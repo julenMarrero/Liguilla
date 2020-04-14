@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><records xmlns:exsl="http://exslt.org/common">
+    <Jornada num="1">
+        <ganadores_locales>
+            <player goles="4">Pope</player>
+            <player goles="2">Reyes</player>
+            <player goles="5">Orlando</player>
+            <player goles="2">Paz</player>
+            <player goles="3">Ado</player>
+        </ganadores_locales>
+        <perdedores_locales>
+            <player goles="1">Jorge</player>
+            <player goles="2">Spittle</player>
+            <player goles="1">Vito</player>
+            <player goles="0">Rober</player>
+        </perdedores_locales>
+        <empate_local>
+            <player goles="2">Saul</player>
+        </empate_local>
+        <empate_visitante>
+            <player goles="2">Aday</player>
+        </empate_visitante>
+        <ganadores_away>
+            <player goles="7">Ivan</player>
+            <player goles="5">Chope</player>
+            <player goles="5">Yere</player>
+            <player goles="5">Jose</player>
+        </ganadores_away>
+        <perdedores_away>
+            <player goles="1">Adrian</player>
+            <player goles="0">Perez</player>
+            <player goles="1">Daniel</player>
+            <player goles="0">Bryan</player>
+            <player goles="0">Tezuan</player>
+        </perdedores_away>
+    </Jornada>
+    <Jornada num="2">
+        <ganadores_locales>
+            <player goles="3">Pope</player>
+            <player goles="3">Reyes</player>
+            <player goles="2">Saul</player>
+            <player goles="4">Ivan</player>
+            <player goles="4">Paz</player>
+        </ganadores_locales>
+        <perdedores_locales>
+            <player goles="2">Spittle</player>
+            <player goles="1">Yere</player>
+            <player goles="1">Rober</player>
+            <player goles="2">Bryan</player>
+        </perdedores_locales>
+        <empate_local>
+            <player goles="2">Ado</player>
+        </empate_local>
+        <empate_visitante>
+            <player goles="2">Perez</player>
+        </empate_visitante>
+        <ganadores_away>
+            <player goles="4">Adrian</player>
+            <player goles="4">Chope</player>
+            <player goles="5">Aday</player>
+            <player goles="4">Jose</player>
+        </ganadores_away>
+        <perdedores_away>
+            <player goles="2">Orlando</player>
+            <player goles="0">Dani</player>
+            <player goles="1">Tezuan</player>
+            <player goles="1">Vito</player>
+            <player goles="2">Jorge</player>
+        </perdedores_away>
+    </Jornada>
+    <Jornada num="3">
+        <ganadores_locales>
+            <player goles="4">Yere</player>
+            <player goles="2">Perez</player>
+            <player goles="3">Paz</player>
+            <player goles="6">Aday</player>
+            <player goles="1">Chope</player>
+        </ganadores_locales>
+        <perdedores_locales>
+            <player goles="3">Reyes</player>
+            <player goles="2">Tezuan</player>
+            <player goles="1">Daniel</player>
+            <player goles="2">Jorge</player>
+        </perdedores_locales>
+        <empate_local>
+            <player goles="0">Pope</player>
+        </empate_local>
+        <empate_visitante>
+            <player goles="0">Spittle</player>
+        </empate_visitante>
+        <ganadores_away>
+            <player goles="4">Orlando</player>
+            <player goles="3">Rober</player>
+            <player goles="5">Ado</player>
+            <player goles="3">Jose</player>
+        </ganadores_away>
+        <perdedores_away>
+            <player goles="2">Adrian</player>
+            <player goles="0">Saul</player>
+            <player goles="0">Victor</player>
+            <player goles="1">Bryan</player>
+            <player goles="0">Ivan</player>
+        </perdedores_away>
+    </Jornada>
+    <Jornada num="4">
+        <ganadores_locales>
+            <player goles="2">Orlando</player>
+            <player goles="1">Ado</player>
+            <player goles="3">Pope</player>
+            <player goles="5">Ivan</player>
+            <player goles="5">Perez</player>
+            <player goles="2">Chope</player>
+            <player goles="5">Tezuan</player>
+            <player goles="5">Jose</player>
+        </ganadores_locales>
+        <perdedores_locales>
+            <player goles="4">Aday</player>
+        </perdedores_locales>
+        <empate_local>
+            <player goles="2">Saul</player>
+        </empate_local>
+        <empate_visitante>
+            <player goles="2">Daniel</player>
+        </empate_visitante>
+        <ganadores_away>
+            <player goles="6">Jorge</player>
+        </ganadores_away>
+        <perdedores_away>
+            <player goles="0">Spittle</player>
+            <player goles="0">Reyes</player>
+            <player goles="2">Yere</player>
+            <player goles="0">Adrian</player>
+            <player goles="0">rober</player>
+            <player goles="0">Paz</player>
+            <player goles="1">Bryan</player>
+            <player goles="0">Vito</player>
+        </perdedores_away>
+    </Jornada>
+    <Jornada num="5">
+        <ganadores_locales>
+            <player goles="4">Yere</player>
+            <player goles="3">Daniel</player>
+            <player goles="4">Paz</player>
+            <player goles="4">Jorge</player>
+            <player goles="6">Aday</player>
+        </ganadores_locales>
+        <perdedores_locales>
+            <player goles="2">Ado</player>
+            <player goles="3">Pope</player>
+            <player goles="0">Bryan</player>
+            <player goles="2">Chope</player>
+        </perdedores_locales>
+        <empate_local>
+            <player goles="4">Reyes</player>
+        </empate_local>
+        <empate_visitante>
+            <player goles="4">Saul</player>
+        </empate_visitante>
+        <ganadores_away>
+            <player goles="3">Orlando</player>
+            <player goles="4">Ivan</player>
+            <player goles="6">Perez</player>
+            <player goles="5">Jose</player>
+        </ganadores_away>
+        <perdedores_away>
+            <player goles="1">Spittle</player>
+            <player goles="1">Rober</player>
+            <player goles="1">Adrian</player>
+            <player goles="1">Tezuan</player>
+            <player goles="0">Vito</player>
+        </perdedores_away>
+    </Jornada>
+    <Jornada num="6">
+        <ganadores_locales>
+            <player goles="7">Orlando</player>
+            <player goles="7">Ivan</player>
+            <player goles="7">Jose</player>
+            <player goles="2">Perez</player>
+            <player goles="5">Aday</player>
+            <player goles="1">Tezuan</player>
+        </ganadores_locales>
+        <perdedores_locales>
+            <player goles="1">Saul</player>
+            <player goles="0">Rober</player>
+            <player goles="2">Pope</player>
+        </perdedores_locales>
+        <empate_local>
+            <player goles="1">Bryan</player>
+        </empate_local>
+        <empate_visitante>
+            <player goles="1">Daniel</player>
+        </empate_visitante>
+        <ganadores_away>
+            <player goles="4">Ado</player>
+            <player goles="4">Reyes</player>
+            <player goles="4">Paz</player>
+        </ganadores_away>
+        <perdedores_away>
+            <player goles="1">Yere</player>
+            <player goles="0">Spittle</player>
+            <player goles="2">Adrian</player>
+            <player goles="0">Jorge</player>
+            <player goles="1">Chope</player>
+            <player goles="0">Vito</player>
+        </perdedores_away>
+    </Jornada>
+</records>
